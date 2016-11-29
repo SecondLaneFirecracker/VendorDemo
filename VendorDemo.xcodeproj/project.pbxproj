@@ -14,6 +14,7 @@
 		0352F6941DACDF3400B3D070 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0352F6931DACDF3400B3D070 /* Assets.xcassets */; };
 		0352F6971DACDF3400B3D070 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0352F6951DACDF3400B3D070 /* LaunchScreen.storyboard */; };
 		037974D91DE57B3600B9A4A4 /* VDPersonModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 037974D81DE57B3600B9A4A4 /* VDPersonModel.m */; };
+		037974DC1DE7EA4300B9A4A4 /* VDStudentModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 037974DB1DE7EA4300B9A4A4 /* VDStudentModel.m */; };
 		0C258A8759963F011C082833 /* libPods-VendorDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BEC36B3439F2D2F6A5D3D433 /* libPods-VendorDemo.a */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,8 @@
 		0352F6981DACDF3400B3D070 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		037974D71DE57B3600B9A4A4 /* VDPersonModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VDPersonModel.h; sourceTree = "<group>"; };
 		037974D81DE57B3600B9A4A4 /* VDPersonModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VDPersonModel.m; sourceTree = "<group>"; };
+		037974DA1DE7EA4300B9A4A4 /* VDStudentModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VDStudentModel.h; sourceTree = "<group>"; };
+		037974DB1DE7EA4300B9A4A4 /* VDStudentModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VDStudentModel.m; sourceTree = "<group>"; };
 		0F411EC39FB7B0D4BE06187D /* Pods-VendorDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VendorDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-VendorDemo/Pods-VendorDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		BEC36B3439F2D2F6A5D3D433 /* libPods-VendorDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-VendorDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D85537A71474E13642B21168 /* Pods-VendorDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VendorDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-VendorDemo/Pods-VendorDemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -95,6 +98,8 @@
 			children = (
 				037974D71DE57B3600B9A4A4 /* VDPersonModel.h */,
 				037974D81DE57B3600B9A4A4 /* VDPersonModel.m */,
+				037974DA1DE7EA4300B9A4A4 /* VDStudentModel.h */,
+				037974DB1DE7EA4300B9A4A4 /* VDStudentModel.m */,
 			);
 			name = Mantle;
 			sourceTree = "<group>";
@@ -238,6 +243,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				037974DC1DE7EA4300B9A4A4 /* VDStudentModel.m in Sources */,
 				037974D91DE57B3600B9A4A4 /* VDPersonModel.m in Sources */,
 				0352F68F1DACDF3400B3D070 /* ViewController.m in Sources */,
 				0352F68C1DACDF3400B3D070 /* AppDelegate.m in Sources */,

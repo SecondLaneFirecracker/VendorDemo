@@ -8,6 +8,7 @@
 
 #import "AppDelegate.h"
 #import "VDPersonModel.h"
+#import "VDStudentModel.h"
 
 @interface AppDelegate ()
 
@@ -28,6 +29,7 @@
     NSLog(@"%@", person);
     NSDictionary *personDictionary = [MTLJSONAdapter JSONDictionaryFromModel:person error:&error];
     NSLog(@"%@", personDictionary);
+    NSLog(@"%@", [VDStudentModel propertyKeys]);
     
     return YES;
 }
