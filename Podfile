@@ -4,5 +4,7 @@ target 'VendorDemo' do
 
   pod 'AFNetworking', '~> 3.0'
   pod 'Mantle', '~> 2.0.7'
+  pod 'DZNEmptyDataSet'
+  pod 'ChameleonFramework'
 
 end
