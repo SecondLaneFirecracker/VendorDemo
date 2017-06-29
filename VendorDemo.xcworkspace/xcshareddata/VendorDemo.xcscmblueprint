@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2564F822B9DB079FBE9D6A08FAF87F3F123AB0ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "103A469E631FBFB716AF8D400C87BB4D10B7E891" : 9223372036854775807,
+    "2564F822B9DB079FBE9D6A08FAF87F3F123AB0ED" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C3257789-713E-4B7D-8B5C-81F67ECBB3F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "103A469E631FBFB716AF8D400C87BB4D10B7E891" : "..\/SRMCategory",
+    "2564F822B9DB079FBE9D6A08FAF87F3F123AB0ED" : "VendorDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VendorDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VendorDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:SongRanMark\/SRMCategory.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "103A469E631FBFB716AF8D400C87BB4D10B7E891"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:SecondLaneFirecracker\/VendorDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2564F822B9DB079FBE9D6A08FAF87F3F123AB0ED"
+    }
+  ]
+}

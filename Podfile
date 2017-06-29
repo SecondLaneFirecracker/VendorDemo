@@ -6,5 +6,6 @@ target 'VendorDemo' do
   pod 'Mantle', '~> 2.0.7'
   pod 'DZNEmptyDataSet'
   pod 'ChameleonFramework'
+  pod 'SRMCategory'
 
 end

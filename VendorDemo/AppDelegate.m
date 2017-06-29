@@ -9,6 +9,7 @@
 #import "AppDelegate.h"
 #import "VDPersonModel.h"
 #import "VDStudentModel.h"
+#import "SRMCategory.h"
 
 @interface AppDelegate ()
 

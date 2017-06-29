@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '2C62A29893791E075E3B3BAB44C353FA'
-               BlueprintName = 'Pods-VendorDemo'
+               BlueprintIdentifier = 'FA83D9EE8E0D5804290AFDA952537282'
+               BlueprintName = 'SRMCategory'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libPods-VendorDemo.a'>
+               BuildableName = 'libSRMCategory.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
